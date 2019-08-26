@@ -8,5 +8,6 @@ namespace ProjectX
 {
     class FunctionalityA
     {
+        public int MyProperty { get; set; }
     }
 }
