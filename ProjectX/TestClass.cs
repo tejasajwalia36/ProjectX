@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjectX
 {
-    class TestClass
+    public class TestClass
     {
+        public string FirstName { get; set; }
     }
 }
