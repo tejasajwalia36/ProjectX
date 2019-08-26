@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ProjectX
 {
-    class TestClass
+    public class TestClass
     {
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+        public string MiddleName { get; set; }
     }
 }
